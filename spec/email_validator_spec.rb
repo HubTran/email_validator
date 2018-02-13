@@ -28,6 +28,7 @@ describe EmailValidator do
       [
         "a+b@plus-in-local.com",
         "a_b@underscore-in-local.com",
+        "a&b@ampersand-in-local.com",
         "user@example.com",
         " user@example.com ",
         "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@letters-in-local.org",
