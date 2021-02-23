@@ -39,6 +39,7 @@ describe EmailValidator do
         "local@dash-in-sld.com",
         "letters-in-sld@123.com",
         "one-letter-sld@x.org",
+        "d'alito@x.org",
         "uncommon-tld@sld.museum",
         "uncommon-tld@sld.travel",
         "uncommon-tld@sld.mobi",
